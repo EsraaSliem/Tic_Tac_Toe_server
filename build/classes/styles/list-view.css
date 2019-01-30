@@ -1,0 +1,21 @@
+.list-view .list-cell:even {
+    -fx-background-color: #f9f9f9;
+    -fx-background-insets: 0.0;
+}
+
+.list-view .list-cell:odd {
+    -fx-background-color: #f9f9f9;
+    -fx-background-insets: 0.0;
+}
+
+.list-cell .jfx-rippler {
+    -jfx-rippler-fill: #000000;
+}
+
+.jfx-list-view {
+    -fx-background-insets: 0;
+    -fx-cell-vertical-margin: 10.0;
+    -fx-vertical-gap: 10;
+    -fx-pref-width: 300;
+    -fx-pref-height: 450;
+}

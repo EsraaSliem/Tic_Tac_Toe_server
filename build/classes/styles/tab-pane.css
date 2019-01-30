@@ -1,0 +1,23 @@
+.tab-pane *.tab-header-area *.tab-header-background {
+    -fx-background-color: transparent;
+}
+
+.jfx-tab-pane .headers-region {
+    -fx-background-color: #FFFFFF;
+}
+
+.jfx-tab-pane .tab-header-background {
+    -fx-background-color: #FFFFFF;
+}
+
+.jfx-tab-pane .tab-header-area .jfx-rippler {
+    -fx-rippler-fill: transparent;
+}
+
+.jfx-tab-pane .tab-selected-line {
+    -fx-stroke: #03A9F4;
+}
+
+.jfx-tab-pane .tab-label {
+    -fx-text-fill: #03A9F4;
+}
